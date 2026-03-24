@@ -13,12 +13,12 @@ Dedicated to the engineering of **Agentic Workflows** and the evolution of **Rec
 * 🔌 **MCP Protocol Evolution**: Refining the `openclaw.plugin.json` manifest and implementing high-performance `http-stream` transport layers for Model Context Protocol.
 * 🧠 **LLM Internals**: Implementing a full-featured **Transformer Decoder** from scratch in TypeScript to explore the mathematical essence of Universal Approximation and Backpropagation.
 
-## 🛠️ Tech Stack & Standards
+## 🛠️ Tech Stack & AI Standards
 
 * **Languages**: TypeScript (Engine Level), Python, Go.
 * **AI/ML Theory**: Transformer Architecture, BP Calculus, Neural Network Optimization.
 * **Agent Infrastructure**: DeepAgents, LangChain/LangSmith (Private Deployment), OpenClaw.
-* **DevOps & Security**: MCP (Model Context Protocol), Docker, Git Automation (Strict GPG Signing).
+* **Protocols & Runtimes**: MCP (Model Context Protocol), Docker, Node.js/Bun.
 
 ## 💡 Technical Philosophies
 
@@ -39,4 +39,4 @@ Dedicated to the engineering of **Agentic Workflows** and the evolution of **Rec
 
 * 🏢 **Working at**: ByteDance
 * 💬 **Ask me about**: Agent middleware lifecycles, MCP `http-stream` protocols, or why RSI is the definitive path to AGI.
-* ⚡ **Fun fact**: I maintain a strict commitment to GPG-signed commits—security is a core feature of my workflow.
+* ⚡ **Fun fact**: I prefer reading the mathematical proof of the Universal Approximation Theorem over a 100-page user manual.
