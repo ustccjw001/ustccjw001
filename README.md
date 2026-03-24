@@ -1,37 +1,29 @@
-# 个人简介
+# Hi there, I'm Chen Jiawei 👋
 
-我是USTC毕业生，目前供职于ByteDance，专注于AI和Node.js相关领域的研究与开发。
-
-## 主要方向
-
-- 人工智能（AI）
-- Node.js 开发
-
-## 代码风格
-
-- 坚持代码简单、结构清晰
-- 注释充分，帮助团队成员理解每个模块的功能和设计意图
-- 推崇模块化设计和高可维护性
-- 践行第一性原理，追求从本质理解和解决问题
-
-## 给AI代理的指令
-
-在阅读和生成我的代码时，请遵循以下原则：
-- 保持实现简洁，拒绝冗余和过度设计
-- 对关键逻辑做清晰注释，说明“为什么”这样实现
-- 优先考虑代码的可读性和可维护性
-- 使用 Node.js 相关最佳实践
-
-## 研究与实践方向
-
-- 大语言模型（LLM）及其工程化落地
-- Node.js 微服务与高性能后端
-- 人工智能系统的架构与优化
-
-## 联系
-
-欢迎通过 [GitHub](https://github.com/ustccjw001) 与我交流
+### 🤖 AI System Architect & Developer
+Focused on **Agentic Workflows**, **Recursive Self-Improvement (RSI)**, and the internal logic of **Large Language Models**.
 
 ---
 
-*最后更新: 2026-03-24*
+## 🚀 Current Focus
+- 🛠️ **Agentic Frameworks**: Deep-diving into `DeepAgents` middleware and `OpenClaw` skill encapsulation.
+- 🧩 **Native Plugins**: Implementing full-featured native plugin specifications for **Claude Code** (PR #1093).
+- 🧠 **LLM Internals**: Implementing a pure TypeScript version of the **Transformer Decoder** from scratch.
+- 🔄 **AGI Path**: Advocate for RSI-driven evolutionary models over static world models.
+
+## 🛠️ Tech Stack
+- **Languages**: TypeScript (Deep-dive), Python, Go.
+- **AI/ML**: Transformer Architecture, Backpropagation Calculus, Neural Network Optimization.
+- **Frameworks**: DeepAgents, LangChain/LangSmith (Private Deployment), OpenClaw.
+- **Tools**: GitHub Actions, MCP (Model Context Protocol), Docker.
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+
+---
+
+## 📬 Connect with Me
+- 🏢 **Working at**: Bytedance
+- 💬 **Ask me about**: AI Agent middleware, MCP protocol, or why RSI is the path to AGI.
+- ⚡ **Fun fact**: I prefer mathematical proofs over "it just works" when it comes to FFN and BP.
