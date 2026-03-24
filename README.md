@@ -18,8 +18,8 @@ Focused on **Agentic Workflows**, **Recursive Self-Improvement (RSI)**, and the 
 - **Tools**: GitHub Actions, MCP (Model Context Protocol), Docker.
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ustccjw001&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ustccjw001&layout=compact&theme=transparent)
 
 ---
 
